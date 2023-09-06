@@ -1,5 +1,7 @@
 # Additional resources from my webinar "Preparing for upgrade season"
 
+### Jamf Pro 10.48 Release Notes Video - [Managed software updates redesign Beta](https://learn.jamf.com/bundle/jamf-pro-release-notes-videos/page/jamf_pro_10-48_release_notes_video.html)
+
 ### Jamf Nation - Tech Thoughts - [Your Internal Beta Test Program: Opt-in / Opt-out via Self Service](https://community.jamf.com/t5/tech-thoughts/your-internal-beta-test-program-opt-in-opt-out-via-self-service/ba-p/276384)
 
 ### Jamf Nation - Tech Thoughts - [Beta to the Max!](https://community.jamf.com/t5/tech-thoughts/beta-to-the-max/ba-p/292797)
