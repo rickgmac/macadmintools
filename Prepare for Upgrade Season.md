@@ -15,3 +15,7 @@
 ### Jamf Webinar - [Reinstall a Clean macOS with One Button](https://www.youtube.com/watch?v=UtdPLbpREtM)
 
 ### JNUC 2021 - [Nudge users to keep macOS up-to-date with Jamf Pro](https://www.jamf.com/resources/videos/nudge-users-to-keep-macos-up-to-date-with-jamf-pro/)
+
+### Laurent Pertois Extension Attibute [Sonoma-Compatibility-Checker](https://github.com/laurentpertois/Sonoma-Compatibility-Checker)
+
+### Laurent Pertois Extension Attibute [Ventura-Compatibility-Checker](https://github.com/laurentpertois/Ventura-Compatibility-Checker)
