@@ -6,6 +6,8 @@
 
 ### Jamf Nation - Tech Thoughts - [Beta to the Max!](https://community.jamf.com/t5/tech-thoughts/beta-to-the-max/ba-p/292797)
 
+### HCS Partner White Paper - [How to Upgrade macOS Using erase-install and Jamf Pro](https://hcsonline.com/support/white-papers/how-to-upgrade-macos-using-erase-install-and-jamf-pro)
+
 ### MacAdmins UK 2023 - [Erase-Install: A Tool for Upgrading and Reinstalling your Mac](https://grahamrpugh.com/2023/05/14/macaduk-presentation-eraseinstall.html)
 
 ### JNUC 2022 - [It’s a Script…It’s a Daemon…It’s S.U.P.E.R.M.A.N.](https://www.jamf.com/resources/videos/its-a-script-its-a-daemon-its-superman/)
