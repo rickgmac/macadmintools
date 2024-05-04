@@ -1,5 +1,7 @@
 # Additional resources from my Presentation "Getting to the Promised land macOS Software Updates"
 
+### Xworld - Tom Bridge [Software Update: Where We're Going, Where We've Been](https://youtu.be/vH53uj-A6SQ?si=YmQmknAsxvpfZg8c)
+
 ### Nudge
 ### JNUC 2021 - [Nudge users to keep macOS up-to-date with Jamf Pro](https://www.jamf.com/resources/videos/nudge-users-to-keep-macos-up-to-date-with-jamf-pro/)
 
