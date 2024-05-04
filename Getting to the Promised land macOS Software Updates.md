@@ -2,6 +2,10 @@
 
 ### Xworld - Tom Bridge [Software Update: Where We're Going, Where We've Been](https://youtu.be/vH53uj-A6SQ?si=YmQmknAsxvpfZg8c)
 
+### WWDC 2023 - [What's new in managing Apple devices](https://developer.apple.com/videos/play/wwdc2023/10040/)
+### WWDC 2022 - [What's new in managing Apple devices](https://developer.apple.com/videos/play/wwdc2022/10045/)
+
+
 ### Nudge
 ### JNUC 2021 - [Nudge users to keep macOS up-to-date with Jamf Pro](https://www.jamf.com/resources/videos/nudge-users-to-keep-macos-up-to-date-with-jamf-pro/)
 
