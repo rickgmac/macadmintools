@@ -11,16 +11,16 @@
 ### JNUC 2023 - [S.U.P.E.R.M.A.N. II](https://www.jamf.com/resources/videos/supercharging-macos-updates/)
 ### JNUC 2022 - [It’s a Script…It’s a Daemon…It’s S.U.P.E.R.M.A.N.](https://www.jamf.com/resources/videos/its-a-script-its-a-daemon-its-superman/)
 
-MDM Updates
+### MDM Updates
 ### JNUC 2023 - [Software Update Roadtrip](https://www.jamf.com/resources/videos/software-update-roadtrip-jnuc-2023/)
 ### JNUC 2022 - [Managed macOS updates with Jamf](https://www.jamf.com/blog/fundamentals-macos-updates-jnuc2022/)
 
-Tools
+### Tools
 ### Mist - https://github.com/ninxsoft/mist-cli
 ### IBM Notifier - https://github.com/IBM/mac-ibm-notifications
 ### swiftDialog - https://github.com/swiftDialog/swiftDialog
 
-Additional Items
+### Additional Items
 ### Laurent Pertois Extension Attibute [Sonoma-Compatibility-Checker](https://github.com/laurentpertois/Sonoma-Compatibility-Checker)
 ### Laurent Pertois Extension Attibute [Ventura-Compatibility-Checker](https://github.com/laurentpertois/Ventura-Compatibility-Checker)
 ### William Smith - Regex [Sonoma-compatible Macs (regex)](https://gist.github.com/talkingmoose/1b852e5d4fc8e76b4400ca2e4b3f3ad0)
