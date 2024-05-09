@@ -5,6 +5,8 @@
 ### WWDC 2023 - [What's new in managing Apple devices](https://developer.apple.com/videos/play/wwdc2023/10040/)
 ### WWDC 2022 - [What's new in managing Apple devices](https://developer.apple.com/videos/play/wwdc2022/10045/)
 
+### JNUC 2022 - Ben Toms [Bootstrap Tokens, Secure Tokens, and Volume Ownership](https://youtu.be/LVp-Nd6MbxA)
+
 
 ### Nudge
 ### JNUC 2021 - [Nudge users to keep macOS up-to-date with Jamf Pro](https://www.jamf.com/resources/videos/nudge-users-to-keep-macos-up-to-date-with-jamf-pro/)
